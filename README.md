@@ -68,7 +68,7 @@ Chúng tôi hoan nghênh các đóng góp từ cộng đồng nhằm tối ưu h
 ## Tác giả (Author)
 
 **Sang Le**
-* GitHub: [@YourGitHubUsername](https://github.com/YourGitHubUsername)
+* GitHub: [@YourGitHubUsername](https://github.com/MaZziMa)
 
 ## Giấy phép (License)
 
